@@ -1,0 +1,2 @@
+# reversi
+# test by begginer
